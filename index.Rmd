@@ -12,7 +12,7 @@ knit        : slidify::knit2slides
 ---
 
 
-## Mortgage Calcultor
+## Mortgage Calculator
 
 This application calculates the fixed monthly payment required to fully amortize a loan  dollars over a term of mortgage years at a yearly interest rate. 
 
@@ -25,7 +25,7 @@ Required the following to be inputed
 
 ---
 
-## Mortgage Calcultor Formula
+## Mortgage Calculator Formula
 
 The following formula used for calcualting the monthly payment
 
@@ -34,7 +34,7 @@ The following formula used for calcualting the monthly payment
 ``` 
 
 ---
-## Mortgage Calcultor Formula - Interest Only option
+## Mortgage Calculator Formula - Interest Only option
 
 The following formula used for calcualting the monthly payment for intest only option
 
@@ -45,7 +45,7 @@ The following formula used for calcualting the monthly payment for intest only o
 
 ---
 
-## Mortgage Calcultor - Assumptions
+## Mortgage Calculator - Assumptions
 
 * Assumed fix rate interst rate to fully amortize the loan amount. 
 * For Interest only option, no amortize
